@@ -160,6 +160,10 @@ Modern E-Commerce Platform.
 
 Next.js • TypeScript • PostgreSQL • Prisma • Clerk
 
+🔗 Live Demo
+
+https://mini-digital.vercel.app
+
 🔗 Repository
 
 https://github.com/AbolfazlMnf/MiniDigital
