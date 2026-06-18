@@ -1,40 +1,26 @@
-# Hey, I'm Abolfazl 👋
+# Hi, I'm Abolfazl Momenifar 👋
 
 ### Full-Stack Next.js Developer
 
-I build production-grade web applications with a focus on scalability, performance, technical SEO, and modern user experiences.
+I build production-ready web applications focused on scalability, performance, business requirements, and exceptional user experiences.
 
-Currently specializing in:
-
-* Next.js
-* React
-* TypeScript
-* Node.js
-* PostgreSQL
-* Prisma
-* AI Integrations
+My expertise lies in developing modern products using Next.js, React, TypeScript, Node.js, PostgreSQL, and AI-powered solutions.
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full-Stack Developer who enjoys turning business requirements into scalable products.
+I'm a Full-Stack Developer passionate about transforming ideas into real-world products.
 
-My experience includes building:
+Over the past few years, I've built applications across multiple domains including:
 
-🏠 Real Estate Marketplace Platforms
+* Real Estate Platforms
+* E-Commerce Systems
+* Educational Platforms
+* AI-Powered Applications
+* Dashboard-Based Products
 
-🛒 E-Commerce Applications
-
-📚 Educational Platforms
-
-🤖 AI-Powered Features & Assistants
-
-🔐 Authentication & Role-Based Systems
-
-⚡ SEO Optimized Applications
-
-I focus on writing maintainable code, building reusable architectures, and delivering real-world solutions rather than tutorial projects.
+I enjoy solving complex problems, designing scalable architectures, and delivering software that creates real business value.
 
 ---
 
@@ -42,21 +28,21 @@ I focus on writing maintainable code, building reusable architectures, and deliv
 
 ✔ Production-Ready Development
 
-✔ Strong Next.js Ecosystem Knowledge
+✔ Full-Stack Product Thinking
 
-✔ Backend & Database Understanding
+✔ Scalable Architecture
 
-✔ Technical SEO Implementation
+✔ Technical SEO Optimization
 
-✔ Clean Architecture
+✔ Performance-Focused Development
 
-✔ REST API Design
+✔ API Design & Integration
 
-✔ Performance Optimization
+✔ Role-Based Access Control Systems
 
-✔ Modern UI Development
+✔ AI Feature Integration
 
-✔ Problem Solving Mindset
+✔ Clean & Maintainable Code
 
 ---
 
@@ -114,105 +100,108 @@ I focus on writing maintainable code, building reusable architectures, and deliv
 
 ## 🏠 Housing Marketplace
 
-A production-grade real estate platform.
+A production-grade real estate marketplace platform built from scratch.
 
-### Highlights
+### Key Features
 
-* Multi-role dashboard system
-* Reservation workflow
-* AI Assistant
-* AI Property Generator
-* Property Comparison
-* Advanced Search & Filters
-* Online Payments
-* Neshan Maps Integration
-* SSR / SSG / ISR
-* Technical SEO
+* Multi-role dashboards (Buyer, Seller, Admin)
+* Property reservation workflows
+* Online payment integration
+* AI-powered assistant connected to platform data
+* AI-assisted property creation
+* Advanced filtering and comparison system
+* Map integration with Neshan API
+* Technical SEO implementation
+* SSR, SSG and ISR rendering strategies
 
-### Stack
+### Tech Stack
 
-Next.js • TypeScript • PostgreSQL • Prisma • AI Integration
+Next.js • TypeScript • PostgreSQL • Prisma • AI Integration • Tailwind CSS
 
 🔗 Live Demo
-
 https://housing-two-phi.vercel.app
 
 🔗 Repository
-
 https://github.com/AbolfazlMnf/Housing
+
+---
+
+## 📚 CodeLogic Learning Platform
+
+A modern educational platform designed for course discovery, purchasing, and management.
+
+### Key Features
+
+* Course catalog system
+* Course purchase workflow
+* User dashboard
+* Admin dashboard
+* Server state management
+* Responsive design
+* Reusable component architecture
+
+### Tech Stack
+
+React.js • React Query • Tailwind CSS
+
+🔗 Live Demo
+https://codelogic-project.netlify.app/
+
+🔗 Repository
+https://github.com/AbolfazlMnf/CodeLogic
 
 ---
 
 ## 🛒 Mini Digital Store
 
-Modern E-Commerce Platform.
+A full-stack e-commerce application focused on modern development practices.
 
-### Highlights
+### Key Features
 
-* Authentication
-* Product Management
-* Admin Dashboard
-* Shopping Workflow
+* Secure authentication with Clerk
+* Product management system
+* Admin dashboard
+* Shopping workflow
 * Server Actions
-* Responsive Design
+* Responsive user experience
 
-### Stack
+### Tech Stack
 
 Next.js • TypeScript • PostgreSQL • Prisma • Clerk
 
 🔗 Live Demo
-
 https://mini-digital.vercel.app
 
 🔗 Repository
-
 https://github.com/AbolfazlMnf/MiniDigital
-
----
-
-## 📋 Task Manager REST API
-
-RESTful backend service.
-
-### Highlights
-
-* JWT Authentication
-* Authorization
-* RBAC
-* MongoDB
-* Scalable API Structure
-
-### Stack
-
-Node.js • Express.js • MongoDB • Mongoose
-
-🔗 Repository
-
-https://github.com/AbolfazlMnf/taskmanager-rest-api
 
 ---
 
 ## 📈 Current Focus
 
 * Advanced Next.js Architecture
+* Scalable Full-Stack Systems
 * System Design
-* Scalable Backend Development
 * AI Integrations
-* SaaS Products
+* SaaS Product Development
 
 ---
 
 ## 📫 Contact
 
-Email:
+📧 Email
 [abolfazlmnf83@gmail.com](mailto:abolfazlmnf83@gmail.com)
 
-GitHub:
-github.com/AbolfazlMnf
-
-LinkedIn:
+💼 LinkedIn
 linkedin.com/in/abolfazl-momenifar
+
+🐙 GitHub
+github.com/AbolfazlMnf
 
 ---
 
-> Building products that solve real problems.
+### Philosophy
+
+> Great software is not about writing more code.
+>
+> It's about solving real problems with simple, scalable, and maintainable solutions.
