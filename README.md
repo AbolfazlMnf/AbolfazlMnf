@@ -1,4 +1,3 @@
-# Hi, I'm Abolfazl Momenifar 👋
 
 ### Full-Stack Next.js Developer
 
