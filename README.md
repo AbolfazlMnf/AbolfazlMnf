@@ -61,9 +61,12 @@ I enjoy solving complex problems, designing scalable architectures, and deliveri
 ### Backend
 
 * Node.js
+* NestJS
 * Express.js
 * REST APIs
-* Next.js API Routes
+* Authentication
+* JWT
+* RBAC
 * Server Actions
 
 ### Databases
@@ -96,6 +99,29 @@ I enjoy solving complex problems, designing scalable architectures, and deliveri
 ---
 
 # Featured Projects
+
+## 🎓 EduNext — Full-Stack Learning Management System (LMS)
+
+A highly scalable, production-ready Learning Management System (LMS) built with Next.js 16 App Router and TypeScript, designed with a modern SaaS architecture and optimized for performance, scalability, and SEO.
+
+### Key Features
+* AI-powered course assistant trained on platform-specific content
+* Smart course player with accurate progress tracking
+* Automated exams and digital certificate generation
+* Secure authentication and role-based access control
+* User and Administrator dashboards
+* Dynamic course catalog with advanced filtering
+* Technical SEO with dynamic metadata
+* Optimized rendering using SSR, SSG, and ISR
+* Responsive SaaS-inspired UI
+
+🔗 Live Demo
+https://housing-two-phi.vercel.app
+
+🔗 Repository
+https://github.com/Edu-Next-Org/EduNext
+
+---
 
 ## 🏠 Housing Marketplace
 
